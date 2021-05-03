@@ -5,7 +5,11 @@ import { getGithubRepos } from "../../actions/profile";
 import Spinner from "../layout/Spinner";
 
 const ProfileGithub = ({ username, getGithubRepos, repos }) => {
-  return <div>Couldnt make this work</div>;
+  //useEffect(() => { Uncomment this to see the error
+  //getGithubRepos(username);
+  //  }, [getGithubRepos(username)]);
+
+  return <div>jebo te allah</div>;
 };
 
 ProfileGithub.propTypes = {
