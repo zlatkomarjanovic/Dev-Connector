@@ -5,9 +5,9 @@ import { getGithubRepos } from "../../actions/profile";
 import Spinner from "../layout/Spinner";
 
 const ProfileGithub = ({ username, getGithubRepos, repos }) => {
-  //useEffect(() => { Uncomment this to see the error
-  //getGithubRepos(username);
-  //  }, [getGithubRepos(username)]);
+  useEffect(() => {
+    getGithubRepos(username);
+  }, [getGithubRepos(username)]);
 
   return <div>jebo te allah</div>;
 };
