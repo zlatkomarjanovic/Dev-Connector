@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://zlaja123:zlaja123@devconnector.pajhu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "14b98b3fe0b945d75ed2",
+  "githubSecret": "225672cb68670a5d1805e39c23ce8b8d81ee571b"
+}
