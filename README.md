@@ -22,4 +22,4 @@ Enjoy Testing
 
 
 NOTE : 
-There might be some issues when it comes to testing 
+There might be some issues when it comes to testing due to backend. If you have any issues while testing contact me at : zlajaa2000@gmail.com.
